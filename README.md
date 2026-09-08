@@ -32,7 +32,7 @@ My professional experience has mainly been focused on **educational technology**
 
 ### Talent Land — Speaker
 
-* I had the opportunity to present my workshop **"[Workshop Name]"** at **Talent Land in Mexico City**.
+* I had the opportunity to present my workshop **"From thinking to coding: boost your tech career"** at **Talent Land in Mexico City**.
 
 * The workshop focused on **using AI to improve technical skills and support the learning process**.
 
